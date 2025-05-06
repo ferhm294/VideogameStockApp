@@ -1,0 +1,11 @@
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll

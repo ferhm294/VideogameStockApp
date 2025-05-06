@@ -1,0 +1,33 @@
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\bin\Debug\net8.0\CapaCompartida.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaCompartida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaCompartida.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaCompartida.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaCompartida.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\refint\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaEntidad\obj\Debug\net8.0\ref\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\refint\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\ref\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.deps.json
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\refint\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\EntidadesCompartidas\CapaCompartida\obj\Debug\net8.0\ref\CapaCompartida.dll
