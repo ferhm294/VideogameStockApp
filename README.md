@@ -19,8 +19,11 @@ VideogameStockApp es un conjunto de aplicaciones cliente-servidor diseñado para
 
 ## Estructura del proyecto
 VideogameStockApp/
+
 │── 45GAMES4UCliente/ # Solución del cliente
+
 │── 45GAMES4UServidor/ # Solución del servidor
+
 │── EntidadesCompartidas/ # Biblioteca de clases compartida entre cliente y servidor
 
 Cada solución cuenta con sus propias capas de:
@@ -32,12 +35,16 @@ Cada solución cuenta con sus propias capas de:
 
 ## Uso
 - Configuración del servidor:
- Registrar tipos de videojuegos antes de registrar videojuegos.
- Registrar administradores y tiendas para gestionar inventario.
+
+Registrar tipos de videojuegos antes de registrar videojuegos.
+
+Registrar administradores y tiendas para gestionar inventario.
 
 - Uso del cliente:
- Registrar clientes para permitir conexión con el servidor.
- Conectarse al servidor para habilitar el registro y la consulta de reservas.
+
+Registrar clientes para permitir conexión con el servidor.
+
+Conectarse al servidor para habilitar el registro y la consulta de reservas.
 
 ## Concurrencia
 - Permite múltiples clientes simultáneos mediante un semáforo (5/5).
@@ -51,7 +58,7 @@ Cada solución cuenta con sus propias capas de:
 
 (Nota: El script de creación de la base de datos fue proporcionado por profesores de la UNED y no puede compartirse en el repositorio.)
 
-##Licencia
+## Licencia
 Licencia MIT
 
 Derechos de Autor (c) [2025] [Fernando Hernández]
