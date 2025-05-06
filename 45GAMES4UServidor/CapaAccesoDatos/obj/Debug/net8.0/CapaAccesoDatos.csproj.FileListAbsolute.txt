@@ -1,0 +1,51 @@
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
