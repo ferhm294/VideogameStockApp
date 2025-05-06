@@ -19,9 +19,9 @@ VideogameStockApp es un conjunto de aplicaciones cliente-servidor diseñado para
 
 ## Estructura del proyecto
 VideogameStockApp/
-│── 45GAMES4UCliente/        # Solución del cliente
-│── 45GAMES4UServidor/       # Solución del servidor
-│── EntidadesCompartidas/    # Biblioteca de clases compartida entre cliente y servidor
+│── 45GAMES4UCliente/ # Solución del cliente
+│── 45GAMES4UServidor/ # Solución del servidor
+│── EntidadesCompartidas/ # Biblioteca de clases compartida entre cliente y servidor
 
 Cada solución cuenta con sus propias capas de:
 -AccesoDatos
