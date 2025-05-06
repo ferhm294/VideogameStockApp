@@ -1,0 +1,54 @@
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormularioPrincipal.resources
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormularioConectar.resources
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormularioRegistrarReserva.resources
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormulariosConsultar.FormularioConsultaCliente.resources
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormulariosConsultar.FormularioConsultaReservaXID.resources
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\bin\Debug\net8.0-windows\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormularioConectar.resources
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormularioPrincipal.resources
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormularioRegistrarReserva.resources
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormulariosConsultar.FormularioConsultaCliente.resources
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FormulariosConsultar.FormularioConsultaReservaXID.resources
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UCliente\CapaPresentacion\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
