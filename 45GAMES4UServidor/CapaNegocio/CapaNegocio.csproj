@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\CapaAccesoDatos\CapaAccesoDatos.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="CapaCompartida">
+	    <HintPath>..\..\EntidadesCompartidas\CapaCompartida\bin\Debug\net8.0\CapaCompartida.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

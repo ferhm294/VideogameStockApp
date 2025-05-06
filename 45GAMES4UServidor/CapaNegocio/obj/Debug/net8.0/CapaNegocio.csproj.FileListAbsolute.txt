@@ -1,0 +1,53 @@
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 1\FernandoHernadez-Proyecto 1\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\UNED\Cuatrimestre I\Programación Avanzada\Proyecto 2\FernandoHernadez-Proyecto 2\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaCompartida.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\bin\Debug\net8.0\CapaCompartida.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\ferhm\OneDrive\Documentos\Profesional\Portafolio Informática\C#\VideogameStockApp\45GAMES4UServidor\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
