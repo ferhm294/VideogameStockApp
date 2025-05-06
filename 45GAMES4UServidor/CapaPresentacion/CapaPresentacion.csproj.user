@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormularioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosConsultar\FormularioConsultarAdministradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosConsultar\FormularioConsultarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosConsultar\FormularioConsultarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosConsultar\FormularioConsultarTiendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosConsultar\FormularioConsultarTipoVideojuegos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosConsultar\FormularioConsultarVideojuegos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormularioServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosRegistrar\FormularioRegistrarAdministradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosRegistrar\FormularioRegistrarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosRegistrar\FormularioRegistrarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosRegistrar\FormularioRegistrarTiendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosRegistrar\FormularioRegistrarTipoVideojuegos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormulariosRegistrar\FormularioRegistrarVideojuegos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
