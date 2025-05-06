@@ -32,14 +32,12 @@ Cada solución cuenta con sus propias capas de:
 
 ## Uso
 - Configuración del servidor:
-
-Registrar tipos de videojuegos antes de registrar videojuegos.
-Registrar administradores y tiendas para gestionar inventario.
+ Registrar tipos de videojuegos antes de registrar videojuegos.
+ Registrar administradores y tiendas para gestionar inventario.
 
 - Uso del cliente:
-
-Registrar clientes para permitir conexión con el servidor.
-Conectarse al servidor para habilitar el registro y la consulta de reservas.
+ Registrar clientes para permitir conexión con el servidor.
+ Conectarse al servidor para habilitar el registro y la consulta de reservas.
 
 ## Concurrencia
 - Permite múltiples clientes simultáneos mediante un semáforo (5/5).
